@@ -5,4 +5,5 @@ ALL CCS codes are compiled with compilers:
 - Compiler version: TI v20.2.2.LTS
 
 All schematic files are designed using Orcad Capture CIS
+
 All PCB layouts are designed using PADs Layout
