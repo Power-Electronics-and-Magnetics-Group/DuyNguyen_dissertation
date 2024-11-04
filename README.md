@@ -1,1 +1,1 @@
-# DuyNguyen_dissertation
+# Duy Nguyen - dissertation
